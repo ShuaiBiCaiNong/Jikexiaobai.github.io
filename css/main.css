@@ -1846,11 +1846,6 @@ pre .javascript .function {
   color: #eee;
   border-bottom-color: #eee;
 }
-@media (max-width: 991px) {
-  .sidebar {
-    display: none;
-  }
-}
 .sidebar-inner {
   position: relative;
   padding: 20px 10px;
@@ -1955,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c7494e;
+  background: #18ff24;
 }
 .feed-link,
 .chat {
