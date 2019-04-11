@@ -1950,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e42820;
+  background: #506b87;
 }
 .feed-link,
 .chat {
@@ -3144,4 +3144,7 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+#instantclick {
+  display: none;
 }
