@@ -1,125 +1,309 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Retina教程]]></title>
-    <url>%2F2019%2F04%2F22%2FRetina%E6%95%99%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[Retina(视网膜)的设置与使用方法因为越来越多工程，尤其灯光秀需要：Retina，所以就有了这篇文章。一起来学习吧，嘻嘻。 Retina的介绍：Retina是由国外大神：mat1jaczyyy和Launchpadlights共同开发的一个由Max编写的程序，可以理解为一个调色板，俗称：视网膜。他的工作就是通过Max，来修改Live默认的压力感应的力度值所代表的颜色，假如Live默认的127，是一个非常非常丑的橙色。通过Retina，就可以修改127代表的颜色为白色，就是Live默认为3的白色。 如何设置使用Retina？首先先去下载loop MIDI，百度搜索，第一个就是。网址为：http://www.tobias-erichsen.de/software/loopmidi.html （或从文章底部下载本文所需的文件)下载、安装完成后。我们需要设置两个端口，分别命名为：to Retina 1to Retina 2步骤：1、在New port-name:输入框里输入to Retina 1，点击最左边加号“+”to Retina 2同理 接下里我们需要关闭传输输出限制。进入到Advenced，然后把Detects feedback from这里前面的√去掉。 打开Ableton Live，同时插上pad，然后打开Option-Preferences-Link Midi ，确保to Retina 1和to Retina 2的两个Output的Track全部打开。注意！Input 千万不要打开！打开以后Loop MIDI和Retina就会重复执行。__ 设置完毕后最小化Loop MIDI，点X后是不会退出的，会小化到任务窗口。然后注意Loop MIDI每次使用Retina的时候都要打开，退出以后就没有to Retina 1和to Retina 2端口了，也就是表示你要用Retina，Loop MIDI一定要后台开着。 然后去下载Retina：网址：https://mat1jaczyyy.com/ （国外网盘，速度慢，建议去文章底部百度云下载） 下载完后解压到一个你能找到的位置，正常下载完以后会有4个文件：一个.mxf后缀的Retina主程序，一个Palettes（调色板）文件夹，一个Documentation（说明书）文件夹，一个Read Me（读我）。 然后打开Retina的主程序，如果你没有装过midifox的闪灯修复补丁，你就直接打开Live自带的Max 8来使用，位置在X:\ProgramData\Ableton\Live 10 Suite\Resources\Max （X为你安装Live的那个盘符），双击Max.exe打开Max 8使用。第一次打开会有一个欢迎界面，点I’know all about it或者是Not Right now. 然后在Max Console的那个界面，左上角，点击。File-Open 然后找到放Retina的那个位置，双击Retina 2.1.mxf文件。打开后就是Retina的主界面。，这里放一张从MIDIFOX找到的一张，杰克大佬翻译过的图片。翻译：RESCAN=重新扫描Input port=输入端口Output port=输出端口Input=输入信号Output=输出信号Project File=你的工程Your Launchpad=你的打击垫Custom color palette=自定义调色板Edit=编辑注意:max不能点✘，点了会关闭整个，要最小化。 设置Retina与Live首先来设置Retina，我们要设置输入，输入设置的是LoopMIDI或者是to Max端口。改成to Retina 1，如果只有不能显示灯光就改成to Retina 2。输出设置为你的Launchpad。 右边，你的工程这里的设置取决于你当前工程是PRO还是MK2做的来选择的。 你的Launchpad这项设置为你自己Pad的型号。 然后我们点下面的Edit。之后出现“调色板”界面翻译：COLOR PALETTE=调色板RESET=重置SAVE=保存LOAD=读取Velocity=力度Red Green Blue 分别为=红 绿 蓝Light=亮度 点击Load，然后加载Retina目录下的Palettes文件夹里的mat1jaczyyyPalette，（这里是看工程作者用什么Paletters来做的,如果不是mat1jaczyyyPalette，你就看看工程文件夹里有没有，一般下载的工程都是有的，大小为2kb左右。） Retina设置完后来看看Live的设置，打开需要Retina的工程。打开Live加载工程，如果有橙条处理下橙条。 然后设置轨道的MIid to看变灰色的区域，我们就要改成我们自己的，所以我们点开，然后选择to Retina 1,ch选择6。 那么这样的话，Retina的设置就设置好了，接下来就是享受工程啦！ 本教程仅对Windows系统，Mac用户请跳转到杰克的视频 本文相关文件下载：百度云下载 提取码iiew]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>【Lanunchpad】All We Know 我们从芝加哥到西海岸的尽头</title>
+      <link href="/2019/04/23/HOLER%E7%81%AB%E4%B9%90%E6%8A%95%E7%A8%BF%E2%80%94%E2%80%941/"/>
+      <url>/2019/04/23/HOLER%E7%81%AB%E4%B9%90%E6%8A%95%E7%A8%BF%E2%80%94%E2%80%941/</url>
+      
+        <content type="html"><![CDATA[<h1 id="【Lanunchpad】All-We-Know-我们从芝加哥到西海岸的尽头"><a href="#【Lanunchpad】All-We-Know-我们从芝加哥到西海岸的尽头" class="headerlink" title="【Lanunchpad】All We Know 我们从芝加哥到西海岸的尽头"></a>【Lanunchpad】All We Know 我们从芝加哥到西海岸的尽头</h1><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/ALL%20WE%20KNOW%20%E6%8A%95%E7%A8%BF%20%28%E7%81%AB%E4%B9%90%29_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br>  <p></p><p><strong><a href="https://space.bilibili.com/181519828?spm_id_from=333.788.b_765f7570696e666f.1" target="_blank" rel="noopener">火乐的B站空间</a></strong>  </p><p><strong><a href="https://pan.baidu.com/s/1gV9U1Z1a-cVnfrL59ydjPg" target="_blank" rel="noopener">工程下载/提取码：</a> fmkt </strong><br><strong><em>警告!!!<br>此工程为此网站独占所有，请勿分享</em></strong></p><p>视频作者：HOLER火乐  </p><p>简介：<br>Lightshow工程<br>作者：乄小陌<br>演奏：HOLER火乐<br>原曲：All We Know (Virtual Riot Remix)<br>风格：Drumstep<br>演奏乐器：Launchpad PRO<br>后期软件：Adobe Premiere Pro CC 2019  </p><p>此工程为表演向视频<br>特别鸣谢：乄小陌<br>Follow him：<br><a href="http://space.bilibili.com/28252217?share_medium=android&amp;share_source=copy_link&amp;bbid=5BB61" target="_blank" rel="noopener">http://space.bilibili.com/28252217?share_medium=android&amp;share_source=copy_link&amp;bbid=5BB61</a></p>]]></content>
+      
+      
       <categories>
-        <category>插件</category>
+          
+          <category> 投稿 </category>
+          
       </categories>
-      <tags>
-        <tag>-插件教程 -教程 -Retina</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[BROOKS - If Only I Could // Live Launchpad Performance]]></title>
-    <url>%2F2019%2F04%2F22%2F2019-4-22%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[BROOKS - If Only I Could // Live Launchpad PerformanceL2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载/提取码： fdnu原视频作者：Kaskobi原作者主页：https://www.youtube.com/channel/UCXfZwgl1HyGrXxdE9dNkQqg原视频地址：https://www.youtube.com/watch?v=URiJ79p-L2I原视频简介： -关于此演出视频合法性的重要说明- 所有鼓样本和来自原始轨道的任何其他分离音频都是真实样本，它们不是“伪造”按钮以增加性能美感。 在视频期间实时录制了演奏，并且从Ableton Live 10中录制的MIDI片段中录制了音频。未对MIDI片段进行量化以保持原始录音的合法性。该视频未获得赞助。 所有学分和权利均归标题，说明和视频中显示的艺术家和创作者所有。 此视频中显示的音乐不属于我。流/下载：https://futurehousemusic.lnk.to/IfIOn …原创曲目：https://www.youtube.com/watch？v = U7KQ -…自定义您的Launchpad：https：//www.kaskobi.com/shop教程：访问我的私人直播和Discord频道！https://www.youtube.com/kaskobifficia...]]></content>
+      
+      
+        <tags>
+            
+            <tag> -乄小陌 -HOLER火乐 -投稿 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Retina教程</title>
+      <link href="/2019/04/22/Retina%E6%95%99%E7%A8%8B/"/>
+      <url>/2019/04/22/Retina%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Retina-视网膜-的设置与使用方法"><a href="#Retina-视网膜-的设置与使用方法" class="headerlink" title="Retina(视网膜)的设置与使用方法"></a>Retina(视网膜)的设置与使用方法</h1><p>因为越来越多工程，尤其灯光秀需要：Retina，所以就有了这篇文章。一起来学习吧，嘻嘻。  </p><h2 id="Retina的介绍："><a href="#Retina的介绍：" class="headerlink" title="Retina的介绍："></a>Retina的介绍：</h2><p>Retina是由国外大神：mat1jaczyyy和Launchpadlights共同开发的一个由Max编写的程序，可以理解为一个调色板，俗称：视网膜。他的工作就是通过Max，来修改Live默认的压力感应的力度值所代表的颜色，假如Live默认的127，是一个非常非常丑的橙色。通过Retina，就可以修改127代表的颜色为白色，就是Live默认为3的白色。  </p><h2 id="如何设置使用Retina？"><a href="#如何设置使用Retina？" class="headerlink" title="如何设置使用Retina？"></a>如何设置使用Retina？</h2><p>首先先去下载loop MIDI，百度搜索，第一个就是。网址为：<a href="http://www.tobias-erichsen.de/software/loopmidi.html" target="_blank" rel="noopener">http://www.tobias-erichsen.de/software/loopmidi.html</a> （或从文章底部下载本文所需的文件)<br>下载、安装完成后。我们需要设置两个端口，分别命名为：<br>to Retina 1<br>to Retina 2<br>步骤：1、在New  port-name:输入框里输入to Retina 1，点击最左边加号“+”<br>to Retina 2同理  </p><p>接下里我们需要关闭传输输出限制。进入到Advenced，然后把Detects feedback from这里前面的√去掉。  </p><p>打开Ableton Live，同时插上pad，然后打开Option-Preferences-Link Midi ，确保to Retina 1和to Retina 2的两个Output的Track全部打开。<strong>注意！</strong>Input 千万不要打开！打开以后Loop MIDI和Retina就会重复执行。__  </p><p>设置完毕后最小化Loop MIDI，点X后是不会退出的，会小化到任务窗口。然后注意Loop MIDI每次使用Retina的时候都要打开，退出以后就没有to Retina 1和to Retina 2端口了，也就是表示你要用Retina，Loop MIDI一定要后台开着。  </p><p>然后去下载Retina：网址：<a href="https://mat1jaczyyy.com/" target="_blank" rel="noopener">https://mat1jaczyyy.com/</a> （国外网盘，速度慢，建议去文章底部百度云下载）  </p><p>下载完后解压到一个你能找到的位置，正常下载完以后会有4个文件：一个.mxf后缀的Retina主程序，一个Palettes（调色板）文件夹，一个Documentation（说明书）文件夹，一个Read Me（读我）。  </p><p>然后打开Retina的主程序，如果你没有装过midifox的闪灯修复补丁，你就直接打开Live自带的Max 8来使用，位置在X:\ProgramData\Ableton\Live 10 Suite\Resources\Max  （X为你安装Live的那个盘符），双击Max.exe打开Max 8使用。<br>第一次打开会有一个欢迎界面，点I’know all about it或者是Not Right now.  </p><p>然后在Max Console的那个界面，左上角，点击。File-Open 然后找到放Retina的那个位置，双击Retina 2.1.mxf文件。打开后就是Retina的主界面。，这里放一张从MIDIFOX找到的一张，杰克大佬翻译过的图片。<br>翻译：<br>RESCAN=重新扫描<br>Input port=输入端口<br>Output port=输出端口<br>Input=输入信号<br>Output=输出信号<br>Project File=你的工程<br>Your Launchpad=你的打击垫<br>Custom color palette=自定义调色板<br>Edit=编辑<br><strong>注意</strong>:max不能点✘，点了会关闭整个，要最小化。  </p><h2 id="设置Retina与Live"><a href="#设置Retina与Live" class="headerlink" title="设置Retina与Live"></a>设置Retina与Live</h2><p>首先来设置Retina，我们要设置输入，输入设置的是LoopMIDI或者是to Max端口。改成to Retina 1，如果只有不能显示灯光就改成to Retina 2。输出设置为你的Launchpad。  </p><p>右边，你的工程这里的设置取决于你当前工程是PRO还是MK2做的来选择的。  </p><p>你的Launchpad这项设置为你自己Pad的型号。  </p><p>然后我们点下面的Edit。<br>之后出现“调色板”界面<br>翻译：<br>COLOR PALETTE=调色板<br>RESET=重置<br>SAVE=保存<br>LOAD=读取<br>Velocity=力度<br>Red Green Blue 分别为=红 绿 蓝<br>Light=亮度  </p><p>点击Load，然后加载Retina目录下的Palettes文件夹里的mat1jaczyyyPalette，（这里是看工程作者用什么Paletters来做的,如果不是mat1jaczyyyPalette，你就看看工程文件夹里有没有，一般下载的工程都是有的，大小为2kb左右。）  </p><p>Retina设置完后来看看Live的设置，打开需要Retina的工程。<br>打开Live加载工程，如果有橙条处理下橙条。  </p><p>然后设置轨道的MIid to看变灰色的区域，我们就要改成我们自己的，所以我们点开，然后选择to Retina 1,ch选择6。  </p><p><strong>那么这样的话，Retina的设置就设置好了，接下来就是享受工程啦！</strong>  </p><p>本教程仅对Windows系统，Mac用户请跳转到<a href="https://www.bilibili.com/video/av35731849" target="_blank" rel="noopener">杰克的视频</a>  </p><p>本文相关文件下载：<br><a href="https://pan.baidu.com/s/1lcVA7x6uN7f-44mcklnUYg" target="_blank" rel="noopener">百度云下载 提取码</a>iiew</p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 插件 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -Kaskobi -工程下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Gryffin - You Remind Me (Nora Van Elken Remix) [Launchpad Cover]]]></title>
-    <url>%2F2019%2F04%2F16%2F2019-4-16%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[Gryffin - You Remind Me (Nora Van Elken Remix) [Launchpad Cover]L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载：原作者未公开提取码：无原视频作者：Neophyte原作者主页：https://www.youtube.com/channel/UCeY-duWyvOMB2L4ygPuzCDg原视频地址：https://www.youtube.com/watch?v=VRAohsaHxqA原视频简介：Original Video + Project File by Infinite : https://www.youtube.com/watch?v=pyRgt... Support Infinite:https://www.youtube.com/channel/UCv4E...https://www.instagram.com/infinitelp/ Support me:Subscribe - https://www.youtube.com/NeophyteYTFollow on IG - https://www.instagram.com/official_ne...Original Song: https://www.youtube.com/watch?v=uxl43... Follow Gryffin:http://www.instagram.com/gryffinofficialhttp://www.twitter.com/gryffinofficial Follow Nora Van Elken here:http://www.facebook.com/noravanelkenhttp://www.twitter.com/noravanelkenhttp://www.instagram.com/noravanelken]]></content>
+      
+      
+        <tags>
+            
+            <tag> -插件教程 -教程 -Retina </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BROOKS - If Only I Could // Live Launchpad Performance</title>
+      <link href="/2019/04/22/2019-4-22%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/22/2019-4-22%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="BROOKS-If-Only-I-Could-Live-Launchpad-Performance"><a href="#BROOKS-If-Only-I-Could-Live-Launchpad-Performance" class="headerlink" title="BROOKS - If Only I Could // Live Launchpad Performance"></a>BROOKS - If Only I Could // Live Launchpad Performance</h1><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/2019~4~22%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br>  <p></p><p><strong><a href="https://pan.baidu.com/s/1Dv7uZMbfhE7upMcSbTGE8A" target="_blank" rel="noopener">工程下载/提取码：</a> fdnu</strong><br>原视频作者：Kaskobi<br>原作者主页：<a href="https://www.youtube.com/channel/UCXfZwgl1HyGrXxdE9dNkQqg" target="_blank" rel="noopener">https://www.youtube.com/channel/UCXfZwgl1HyGrXxdE9dNkQqg</a><br>原视频地址：<a href="https://www.youtube.com/watch?v=URiJ79p-L2I" target="_blank" rel="noopener">https://www.youtube.com/watch?v=URiJ79p-L2I</a><br>原视频简介：  </p><p><strong>-关于此演出视频合法性的重要说明-</strong>  </p><p>所有鼓样本和来自原始轨道的任何其他分离音频都是真实样本，它们不是“伪造”按钮以增加性能美感。 在视频期间实<br>时录制了演奏，并且从Ableton Live 10中录制的MIDI片段中录制了音频。未对MIDI片段进行量化以保持原始录音的合法性。<br>该视频未获得赞助。 所有学分和权利均归标题，说明和视频中显示的艺术家和创作者所有。 此视频中显示的音乐不属于我。<br>流/下载：<a href="https://futurehousemusic.lnk.to/IfIOn" target="_blank" rel="noopener">https://futurehousemusic.lnk.to/IfIOn</a> …<br>原创曲目：<a href="https://www.youtube.com/watch？v" target="_blank" rel="noopener">https://www.youtube.com/watch？v</a> = U7KQ -…<br>自定义您的Launchpad：https：//<a href="http://www.kaskobi.com/shop" target="_blank" rel="noopener">www.kaskobi.com/shop</a><br>教程：<br>访问我的私人直播和Discord频道！<a href="https://www.youtube.com/kaskobifficia.." target="_blank" rel="noopener">https://www.youtube.com/kaskobifficia..</a>.</p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -Neophyte -工程下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Avicii - SOSft. Aloe Blacc (Launchpad Pro Cover)]]></title>
-    <url>%2F2019%2F04%2F15%2F2019-4-15%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[Avicii - SOS ft. Aloe Blacc (Launchpad Pro Cover)视频原地址：https://www.youtube.com/watch?v=YJfNUAZmgsg&amp;t=0sL2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载：原作者未公开提取码：无原视频作者：EYD4M原作者主页：https://www.youtube.com/channel/UCpl46Q8P_w_9TA57MZKEfwg原视频简介：自2018年4月20日以来已近一年。这是Tim Bergling逝世的日期。 这绝对是音乐史上最糟糕的日子之一。 我做了这个封面，以纪念Avicii–世界上最杰出的DJ之一。 他的音乐对我的生活产生了很大的影响，并给了我（并且仍在给予）许多积极的共鸣。 我记得11岁的时候听他的歌，感谢“I Can Be The One”和“Levels”等曲目，我开始听EDM音乐。 我希望他终于找到了他所需要的平静和安静。 Rest In PieceTim◢◤谢谢你的一切。 你永远不会被遗忘。 原创歌曲 - https://www.youtube.com/watch?v = u8tdT …]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -Kaskobi -工程下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Gryffin - You Remind Me (Nora Van Elken Remix) [Launchpad Cover]</title>
+      <link href="/2019/04/16/2019-4-16%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/16/2019-4-16%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Gryffin-You-Remind-Me-Nora-Van-Elken-Remix-Launchpad-Cover"><a href="#Gryffin-You-Remind-Me-Nora-Van-Elken-Remix-Launchpad-Cover" class="headerlink" title="Gryffin - You Remind Me (Nora Van Elken Remix) [Launchpad Cover]"></a>Gryffin - You Remind Me (Nora Van Elken Remix) [Launchpad Cover]</h1><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/2019~4~16%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br><br>工程下载：原作者未公开<br>提取码：无<br>原视频作者：Neophyte<br>原作者主页：<a href="https://www.youtube.com/channel/UCeY-duWyvOMB2L4ygPuzCDg" target="_blank" rel="noopener">https://www.youtube.com/channel/UCeY-duWyvOMB2L4ygPuzCDg</a><br>原视频地址：<a href="https://www.youtube.com/watch?v=VRAohsaHxqA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=VRAohsaHxqA</a><br>原视频简介：<br>Original Video + Project File by Infinite : <a href="https://www.youtube.com/watch?v=pyRgt.." target="_blank" rel="noopener">https://www.youtube.com/watch?v=pyRgt..</a>.  <p></p><p>Support Infinite:<br><a href="https://www.youtube.com/channel/UCv4E.." target="_blank" rel="noopener">https://www.youtube.com/channel/UCv4E..</a>.<br><a href="https://www.instagram.com/infinitelp/" target="_blank" rel="noopener">https://www.instagram.com/infinitelp/</a>  </p><p>Support me:<br>Subscribe - <a href="https://www.youtube.com/NeophyteYT" target="_blank" rel="noopener">https://www.youtube.com/NeophyteYT</a><br>Follow on IG - <a href="https://www.instagram.com/official_ne.." target="_blank" rel="noopener">https://www.instagram.com/official_ne..</a>.<br>Original Song: <a href="https://www.youtube.com/watch?v=uxl43.." target="_blank" rel="noopener">https://www.youtube.com/watch?v=uxl43..</a>.  </p><p>Follow Gryffin:<br><a href="http://www.instagram.com/gryffinofficial" target="_blank" rel="noopener">http://www.instagram.com/gryffinofficial</a><br><a href="http://www.twitter.com/gryffinofficial" target="_blank" rel="noopener">http://www.twitter.com/gryffinofficial</a>  </p><p>Follow Nora Van Elken here:<br><a href="http://www.facebook.com/noravanelken" target="_blank" rel="noopener">http://www.facebook.com/noravanelken</a><br><a href="http://www.twitter.com/noravanelken" target="_blank" rel="noopener">http://www.twitter.com/noravanelken</a><br><a href="http://www.instagram.com/noravanelken" target="_blank" rel="noopener">http://www.instagram.com/noravanelken</a></p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -EYD4M -工程下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[BLACKPINK - 'Kill This Love' M/V (Launchpad Cover) + Project File]]></title>
-    <url>%2F2019%2F04%2F14%2F2019-4-14%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[BLACKPINK - ‘Kill This Love’ M/V (Launchpad Cover) + Project File视频原地址：https://www.youtube.com/watch?v=kbX7H8XHt1c&amp;t=0sL2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载：（下周一公布）提取码：无原视频作者：Sergio Valentino原作者主页：https://www.youtube.com/channel/UCvT9bknfpLW8DutFg4-nX6g原视频简介：加入我的Discord服务器（欢迎所有人）：https：//discord.gg/PFEAK8M 项目档案：下周一公布 非常感谢你对8.650!!!订阅者:)你是最棒的:)Sergio Valentino //享受我的Lanchpad封面我们可以点击这个Video 9.000订阅者吗？！？！？ 项目详情：难度等级：8/10光强度等级：8/10试验次数：6指南：包含在项目中免责声明：此歌不属于我，所有权利均转至视频标题/简介/说明中显示的艺术家。]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -Neophyte -工程下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Avicii - SOSft. Aloe Blacc (Launchpad Pro Cover)</title>
+      <link href="/2019/04/15/2019-4-15%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/15/2019-4-15%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Avicii-SOS-ft-Aloe-Blacc-Launchpad-Pro-Cover"><a href="#Avicii-SOS-ft-Aloe-Blacc-Launchpad-Pro-Cover" class="headerlink" title="Avicii - SOS ft. Aloe Blacc (Launchpad Pro Cover)"></a>Avicii - SOS ft. Aloe Blacc (Launchpad Pro Cover)</h1><h2 id="视频原地址：https-www-youtube-com-watch-v-YJfNUAZmgsg-amp-t-0s"><a href="#视频原地址：https-www-youtube-com-watch-v-YJfNUAZmgsg-amp-t-0s" class="headerlink" title="视频原地址：https://www.youtube.com/watch?v=YJfNUAZmgsg&amp;t=0s"></a>视频原地址：<a href="https://www.youtube.com/watch?v=YJfNUAZmgsg&amp;t=0s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=YJfNUAZmgsg&amp;t=0s</a></h2><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/2019~4~15%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br><br>工程下载：原作者未公开<br>提取码：无<br>原视频作者：EYD4M<br>原作者主页：<a href="https://www.youtube.com/channel/UCpl46Q8P_w_9TA57MZKEfwg" target="_blank" rel="noopener">https://www.youtube.com/channel/UCpl46Q8P_w_9TA57MZKEfwg</a><br>原视频简介：<br>自2018年4月20日以来已近一年。这是Tim Bergling逝世的日期。 这绝对是音乐史上最<br>糟糕的日子之一。 我做了这个封面，以纪念Avicii–世界上最杰出的DJ之一。 他的音乐<br>对我的生活产生了很大的影响，并给了我（并且仍在给予）许多积极的共鸣。 我记得11岁<br>的时候听他的歌，感谢“I Can Be The One”和“Levels”等曲目，我开始听EDM音乐。 我<br>希望他终于找到了他所需要的平静和安静。 Rest In PieceTim◢◤谢谢你的一切。 你永远不会被遗忘。  <p></p><p>原创歌曲 -  <a href="https://www.youtube.com/watch?v" target="_blank" rel="noopener">https://www.youtube.com/watch?v</a> = u8tdT …</p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -Sergio Valentino -工程下载 -搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Jack Sparrow - Pirates of the Caribbean - Launchpad Performance]]></title>
-    <url>%2F2019%2F04%2F13%2F2019-4-13%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[Jack Sparrow - Pirates of the Caribbean - Launchpad Performance视频原地址：https://www.youtube.com/watch?v=Z2j6pb9aYs4L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载：（工程文件未放出）提取码：无原视频作者：OmegaVibe原作者主页：https://www.youtube.com/channel/UCld6XEqj5s3uFxHpMNdVu_g原视频简介：Support me on Patreon! https://www.patreon.com/omegavibeJoin my discord server! https://discord.gg/xZGerqy OmegaVibe Website https://omegavibe.net(Merchandise, Project Files, and More!) ….. Liked This? Check out some of my other Covers! Orchestral Launchpad Playlisthttps://www.youtube.com/playlist?list... Calculator Covers Playlisthttps://www.youtube.com/watch?v=DtISP... ….. Thanks for Watching!]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -EYD4M -工程下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BLACKPINK - &#39;Kill This Love&#39; M/V (Launchpad Cover) + Project File</title>
+      <link href="/2019/04/14/2019-4-14%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/14/2019-4-14%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="BLACKPINK-‘Kill-This-Love’-M-V-Launchpad-Cover-Project-File"><a href="#BLACKPINK-‘Kill-This-Love’-M-V-Launchpad-Cover-Project-File" class="headerlink" title="BLACKPINK - ‘Kill This Love’ M/V (Launchpad Cover) + Project File"></a>BLACKPINK - ‘Kill This Love’ M/V (Launchpad Cover) + Project File</h1><h2 id="视频原地址：https-www-youtube-com-watch-v-kbX7H8XHt1c-amp-t-0s"><a href="#视频原地址：https-www-youtube-com-watch-v-kbX7H8XHt1c-amp-t-0s" class="headerlink" title="视频原地址：https://www.youtube.com/watch?v=kbX7H8XHt1c&amp;t=0s"></a>视频原地址：<a href="https://www.youtube.com/watch?v=kbX7H8XHt1c&amp;t=0s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=kbX7H8XHt1c&amp;t=0s</a></h2><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/2019~4~14%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br>  <p></p><ul><li>工程下载：（下周一公布）<br>提取码：无<br>原视频作者：Sergio Valentino<br>原作者主页：<a href="https://www.youtube.com/channel/UCvT9bknfpLW8DutFg4-nX6g" target="_blank" rel="noopener">https://www.youtube.com/channel/UCvT9bknfpLW8DutFg4-nX6g</a><br>原视频简介：<br>加入我的Discord服务器（欢迎所有人）：https：//discord.gg/PFEAK8M  </li></ul><p>项目档案：下周一公布  </p><p>非常感谢你对8.650!!!订阅者:)你是最棒的:)<br>Sergio Valentino //享受我的Lanchpad封面<br>我们可以点击这个Video 9.000订阅者吗？！？！？  </p><p>项目详情：<br>难度等级：8/10<br>光强度等级：8/10<br>试验次数：6<br>指南：包含在项目中<br>免责声明：此歌不属于我，所有权利均转至视频标题/简介/说明中显示的艺术家。</p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -OmegaVibe -工程下载 -搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Holl & Rush x Dwight Steven - Ain't Nobody Else Launchpad Performance]]></title>
-    <url>%2F2019%2F04%2F11%2F%E6%90%AC%E8%BF%90%2F</url>
-    <content type="text"><![CDATA[Holl &amp; Rush x Dwight Steven - Ain’t Nobody Else Launchpad视频原地址：https://www.youtube.com/watch?v=vF7ckeZblGE原视频简介（部分）：原视频作者：Kaskobi 关于此演出视频合法性的重要说明 -所有鼓样本和来自原始轨道的任何其他分离音频都是真实样本，它们不是“伪造”按钮以增加性能美感。在视频期间实时录制了演奏，音频是从Ableton Live 10中录制的MIDI片段中录制的.MIDI片段没有量化以保持原始录音的合法性。 该视频未获得赞助。所有学分和权利均归标题，说明和视频中显示的艺术家和创作者所有。此视频中显示的音乐不属于我。 L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false}); 工程下载：https://pan.baidu.com/s/1E6sQEFmCRPlP4I2MWHZvYw提取码：qumo]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -Sergio Valentino -工程下载 -搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Jack Sparrow - Pirates of the Caribbean - Launchpad Performance</title>
+      <link href="/2019/04/13/2019-4-13%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/13/2019-4-13%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Jack-Sparrow-Pirates-of-the-Caribbean-Launchpad-Performance"><a href="#Jack-Sparrow-Pirates-of-the-Caribbean-Launchpad-Performance" class="headerlink" title="Jack Sparrow - Pirates of the Caribbean - Launchpad Performance"></a>Jack Sparrow - Pirates of the Caribbean - Launchpad Performance</h1><h2 id="视频原地址：https-www-youtube-com-watch-v-Z2j6pb9aYs4"><a href="#视频原地址：https-www-youtube-com-watch-v-Z2j6pb9aYs4" class="headerlink" title="视频原地址：https://www.youtube.com/watch?v=Z2j6pb9aYs4"></a>视频原地址：<a href="https://www.youtube.com/watch?v=Z2j6pb9aYs4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=Z2j6pb9aYs4</a></h2><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/2019~4~13%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br>  <p></p><ul><li>工程下载：（工程文件未放出）<br>提取码：无<br>原视频作者：OmegaVibe<br>原作者主页：<a href="https://www.youtube.com/channel/UCld6XEqj5s3uFxHpMNdVu_g" target="_blank" rel="noopener">https://www.youtube.com/channel/UCld6XEqj5s3uFxHpMNdVu_g</a><br>原视频简介：<br>Support me on Patreon! <a href="https://www.patreon.com/omegavibe" target="_blank" rel="noopener">https://www.patreon.com/omegavibe</a><br>Join my discord server! <a href="https://discord.gg/xZGerqy" target="_blank" rel="noopener">https://discord.gg/xZGerqy</a>  </li></ul><p>OmegaVibe Website <a href="https://omegavibe.net" target="_blank" rel="noopener">https://omegavibe.net</a><br>(Merchandise, Project Files, and More!)  </p><p>…..  </p><p>Liked This? Check out some of my other Covers!  </p><p>Orchestral Launchpad Playlist<br><a href="https://www.youtube.com/playlist?list.." target="_blank" rel="noopener">https://www.youtube.com/playlist?list..</a>.  </p><p>Calculator Covers Playlist<br><a href="https://www.youtube.com/watch?v=DtISP.." target="_blank" rel="noopener">https://www.youtube.com/watch?v=DtISP..</a>.  </p><p>…..  </p><p>Thanks for Watching!</p>]]></content>
+      
+      
       <categories>
-        <category>工程下载</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>-搬运 -K神 -工程下载 -搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[3Pad演奏Chime-Wait-For-Me]]></title>
-    <url>%2F2019%2F04%2F06%2F3Pad%E6%BC%94%E5%A5%8FChime-Wait-For-Me%2F</url>
-    <content type="text"><![CDATA[3Pad演奏Chime - Wait For Me (Teminite Remix) 立体魔方3Pad工程是小尾巴猫给我的，嘻嘻[开心] 一起来看看吧 工程请加粉丝群：772645217我的UID为：108312683希望你们喜欢这个灯光秀 L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -OmegaVibe -工程下载 -搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Holl &amp; Rush x Dwight Steven - Ain&#39;t Nobody Else  Launchpad Performance</title>
+      <link href="/2019/04/11/%E6%90%AC%E8%BF%90/"/>
+      <url>/2019/04/11/%E6%90%AC%E8%BF%90/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Holl-amp-Rush-x-Dwight-Steven-Ain’t-Nobody-Else-Launchpad"><a href="#Holl-amp-Rush-x-Dwight-Steven-Ain’t-Nobody-Else-Launchpad" class="headerlink" title="Holl &amp; Rush x Dwight Steven - Ain’t Nobody Else  Launchpad"></a>Holl &amp; Rush x Dwight Steven - Ain’t Nobody Else  Launchpad</h1><h2 id="视频原地址：https-www-youtube-com-watch-v-vF7ckeZblGE"><a href="#视频原地址：https-www-youtube-com-watch-v-vF7ckeZblGE" class="headerlink" title="视频原地址：https://www.youtube.com/watch?v=vF7ckeZblGE"></a>视频原地址：<a href="https://www.youtube.com/watch?v=vF7ckeZblGE" target="_blank" rel="noopener">https://www.youtube.com/watch?v=vF7ckeZblGE</a></h2><p>原视频简介（部分）：<br>原视频作者：Kaskobi</p><ul><li>关于此演出视频合法性的重要说明 -<br>所有鼓样本和来自原始轨道的任何其他分离音频都是真实样本，它们不是“伪造”按钮以增加性能美感。在视频期间实时录制了演奏，音频是从Ableton Live 10中录制的MIDI片段中录制的.MIDI片段没有量化以保持原始录音的合法性。</li></ul><p>该视频未获得赞助。所有学分和权利均归标题，说明和视频中显示的艺术家和创作者所有。此视频中显示的音乐不属于我。  </p><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/%E5%8D%9A%E5%AE%A2%E6%90%AC%E8%BF%90_BiliBili.mp4" width="100%" height="100%" controls><p></p></video><br><br>  <p></p><ul><li>工程下载：<a href="https://pan.baidu.com/s/1E6sQEFmCRPlP4I2MWHZvYw" target="_blank" rel="noopener">https://pan.baidu.com/s/1E6sQEFmCRPlP4I2MWHZvYw</a><br>提取码：qumo</li></ul>]]></content>
+      
+      
       <categories>
-        <category>灯光秀</category>
+          
+          <category> 工程下载 </category>
+          
       </categories>
-      <tags>
-        <tag>翻弹工程</tag>
-        <tag>Chime - Wait For Me</tag>
-        <tag>3Pad</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[我和小陌大佬的合作工程]]></title>
-    <url>%2F2019%2F04%2F06%2F%E6%88%91%E5%92%8C%E5%B0%8F%E9%99%8C%E5%A4%A7%E4%BD%AC%E7%9A%84%E5%90%88%E4%BD%9C%E5%B7%A5%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[花灯俏原创灯光秀此视频由小陌上传，由极客小白后期，此视频的工程由小陌大佬和我一起完成。工程请加粉丝群：772645217我的UID为：108312683希望你们喜欢这个灯光秀请点击1080p的分辨率，然后跳转到哔哩哔哩观看]]></content>
+      
+      
+        <tags>
+            
+            <tag> -搬运 -K神 -工程下载 -搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3Pad演奏Chime-Wait-For-Me</title>
+      <link href="/2019/04/06/3Pad%E6%BC%94%E5%A5%8FChime-Wait-For-Me/"/>
+      <url>/2019/04/06/3Pad%E6%BC%94%E5%A5%8FChime-Wait-For-Me/</url>
+      
+        <content type="html"><![CDATA[<h1 id="3Pad演奏Chime-Wait-For-Me-Teminite-Remix-立体魔方3Pad"><a href="#3Pad演奏Chime-Wait-For-Me-Teminite-Remix-立体魔方3Pad" class="headerlink" title="3Pad演奏Chime - Wait For Me (Teminite Remix) 立体魔方3Pad"></a>3Pad演奏Chime - Wait For Me (Teminite Remix) 立体魔方3Pad</h1><h2 id="工程是小尾巴猫给我的，嘻嘻-开心"><a href="#工程是小尾巴猫给我的，嘻嘻-开心" class="headerlink" title="工程是小尾巴猫给我的，嘻嘻[开心]"></a>工程是小尾巴猫给我的，嘻嘻[开心]</h2><p>  一起来看看吧<br>  工程请加粉丝群：772645217<br>我的UID为：108312683<br>希望你们喜欢这个灯光秀  </p><p><body><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></p><video src="http://pps3wofq8.bkt.clouddn.com/3Pad%20%E5%B0%8F%E5%B0%BE%E5%B7%B4%E7%8C%AB%E7%9A%84%E5%B7%A5%E7%A8%8B%28%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD%29_%E5%8E%8B%E7%BC%A9%E5%90%8E.mp4" width="100%" height="100%" controls><p></p></video><br><br><p></p>]]></content>
+      
+      
       <categories>
-        <category>灯光秀</category>
+          
+          <category> 灯光秀 </category>
+          
       </categories>
-      <tags>
-        <tag>合作工程</tag>
-        <tag>原创工程</tag>
-        <tag>灯光秀</tag>
-        <tag>Retina 2.1</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[小白测试用文章]]></title>
-    <url>%2F2019%2F04%2F06%2F%E5%B0%8F%E7%99%BD%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[这是标题这是副标题？这是内容？，然后空两格回车可以换行好像是这样吧。。。。。。就是不知道怎么开头空两个，23333。]]></content>
+      
+      
+        <tags>
+            
+            <tag> 翻弹工程 </tag>
+            
+            <tag> Chime - Wait For Me </tag>
+            
+            <tag> 3Pad </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我和小陌大佬的合作工程</title>
+      <link href="/2019/04/06/%E6%88%91%E5%92%8C%E5%B0%8F%E9%99%8C%E5%A4%A7%E4%BD%AC%E7%9A%84%E5%90%88%E4%BD%9C%E5%B7%A5%E7%A8%8B/"/>
+      <url>/2019/04/06/%E6%88%91%E5%92%8C%E5%B0%8F%E9%99%8C%E5%A4%A7%E4%BD%AC%E7%9A%84%E5%90%88%E4%BD%9C%E5%B7%A5%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="花灯俏"><a href="#花灯俏" class="headerlink" title="花灯俏"></a>花灯俏</h1><h2 id="原创灯光秀"><a href="#原创灯光秀" class="headerlink" title="原创灯光秀"></a>原创灯光秀</h2><p>此视频由小陌上传，由极客小白后期，此视频的工程由小陌大佬和我一起完成。<br>工程请加粉丝群：772645217<br>我的UID为：108312683<br>希望你们喜欢这个灯光秀<br>请点击1080p的分辨率，然后跳转到哔哩哔哩观看</p><iframe src="//player.bilibili.com/player.html?aid=44062571&cid=77170437&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="415" width="60%"> </iframe>]]></content>
+      
+      
       <categories>
-        <category>测试</category>
+          
+          <category> 灯光秀 </category>
+          
       </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>分享</tag>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F04%2F05%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 合作工程 </tag>
+            
+            <tag> 原创工程 </tag>
+            
+            <tag> 灯光秀 </tag>
+            
+            <tag> Retina 2.1 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小白测试用文章</title>
+      <link href="/2019/04/06/%E5%B0%8F%E7%99%BD%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E7%AB%A0/"/>
+      <url>/2019/04/06/%E5%B0%8F%E7%99%BD%E6%B5%8B%E8%AF%95%E7%94%A8%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h1><h2 id="这是副标题？"><a href="#这是副标题？" class="headerlink" title="这是副标题？"></a>这是副标题？</h2><p>这是内容？，然后空两格回车可以换行<br>好像是这样吧。。。。。。就是不知道怎么开头空两个，23333。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 分享 </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/04/05/hello-world/"/>
+      <url>/2019/04/05/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
